@@ -26,4 +26,4 @@ This repository contains the tasks completed during my Cybersecurity Internship.
 - GitHub
 
 ## Author
-Your Name
+Syeda Tahoora Fatima
